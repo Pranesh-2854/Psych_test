@@ -1,0 +1,14 @@
+.footer {
+  background-color: #4e0a0a;
+  color: white;
+  text-align: center;
+  padding: 0.5rem 1rem;
+  width: 100%;
+  box-sizing: border-box;
+  z-index: 3;
+}
+
+.footer p {
+  font-size: 1.25rem;
+  margin: 0;
+}
